@@ -14,18 +14,18 @@
 
 ### 整体系统框架：
 
-![image-20220803153659173](C:\Users\刘佩羽\Desktop\GIT教学\summer2022\liupeiyu\2022-8-3\1.assets\image-20220803153659173.png)
+![输入图片说明](1.assets/image-20220803153659173.png)
 
 
 
 ### 硬件框架说明：
 
-![image-20220803153506362](C:\Users\刘佩羽\Desktop\GIT教学\summer2022\liupeiyu\2022-8-3\1.assets\image-20220803153506362.png)
+![输入图片说明](1.assets/image-20220803153506362.png)
 
 ### 软件框架说明：
 
-![image-20220803153007336](C:\Users\刘佩羽\Desktop\GIT教学\summer2022\liupeiyu\2022-8-3\1.assets\image-20220803153007336.png)
+![输入图片说明](1.assets/image-20220803153007336.png)
 
 ### 软件模块说明:
 
-![image-20220803153222340](C:\Users\刘佩羽\Desktop\GIT教学\summer2022\liupeiyu\2022-8-3\1.assets\image-20220803153222340.png)
+![输入图片说明](1.assets/image-20220803153222340.png)
