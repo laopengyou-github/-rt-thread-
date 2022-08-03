@@ -122,7 +122,7 @@ void temp_check_entry(void* parameter)
 
         temp=(double)(data1.data.temp)/10;
         onenet_mqtt_upload_digit(argv2[0],temp);
-
+         rt_thread_mdelay(1000);
 
         if(temp>33.5)
         {
@@ -159,7 +159,7 @@ void humi_check_entry(void* parameter)
 
         humi=(double)(data2.data.humi)/10;
         onenet_mqtt_upload_digit(argv2[1],humi);
-
+         rt_thread_mdelay(1000);
         if(humi<40)
         {
             rt_pin_write(WATER_PUMP, PIN_HIGH);
